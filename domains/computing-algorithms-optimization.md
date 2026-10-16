@@ -13,8 +13,8 @@ This domain links quantum information foundations with computer-science algorith
 | **Introduction to Quantum Information Technology and Quantum Computing** | State vectors, density operators, measurement, tensor products, entanglement, gates, channels, information-theoretic quantum concepts | Passed M.Sc. coursework |
 | **Advanced Quantum Technology for Engineers** *(cross-listed)* | Quantum-mechanical operators and eigenvalue problems, Schrödinger dynamics, perturbation methods, multi-particle principles, platform foundations | Passed M.Sc. coursework; primarily analytical |
 | **Applied Quantum Computing: Basics and Devices** *(cross-listed)* | Qubit/circuit concepts; DiVincenzo criteria, physical qubit platforms, coherence and hardware constraints | Passed M.Sc. coursework; device principles rather than demonstrated control-code development |
-| **Algorithms and Complexity for Quantum Computing** | Computational models; state, operation and measurement; quantum circuit concepts; complexity classes, reductions, quantum algorithm contexts | A **5-ECTS graded examination/component passed**; official module-completion annotation requires separate confirmation |
-| **Approximation Algorithms** | Approximation ratios, matching-based techniques, graph problems, reductions, mathematical programming, Graph/Metric TSP | **Studied topics only; no completed-module credential claimed** |
+| **Algorithms and Complexity for Quantum Computing** | Computational problems as languages, polynomial-time certificates, 2-qubit separability, quantum Fourier transform and algorithmic complexity | A **5-ECTS graded examination/component passed**; official module-completion annotation requires separate confirmation |
+| **Approximation Algorithms** | Approximation guarantees, reductions, matching, Set Cover/Set Packing, LP and primal–dual methods, Bin Covering, metric TSP, Max-Cut and Steiner Tree | **Studied topics only; no completed-module credential claimed** |
 | **Quantum Programming Languages** *(ongoing, external to the TU degree)* | Foundations, optical/continuous-variable computation, adiabatic optimization, Qiskit circuits, Bernstein–Vazirani, Simon, and introductory VQE | [Public topic-oriented learning repo](https://github.com/SoroushHaghi/quantum_programming_languages_lab); AI-assisted reference code exists, personally executed/tested results not yet verified |
 
 ## Scientific topics
@@ -28,19 +28,29 @@ This domain links quantum information foundations with computer-science algorith
 
 ### Quantum algorithms and computational complexity
 - Classical versus quantum computational models; reversible operations and oracle interfaces.
-- Complexity theory: P, NP, BPP, BQP, reductions and approximation questions at the coursework level.
-- Conceptual exposure to Deutsch–Jozsa, Grover, Shor/QFT and associated algorithmic speedup arguments; **no personal implementation implied**.
+- Two-qubit pure-state separability can be checked through a vanishing coefficient determinant, `γ00γ11 − γ01γ10 = 0`, in the source's computational-basis setting; this is theoretical linear-algebra work.
+- Complexity theory: decision problems represented as languages, certificates enabling polynomial-time verification of yes-instances, P, NP, BPP, BQP and reductions at coursework level.
+- Course discussion of the Deutsch black-box/oracle problem and QFT roots-of-unity structure, with introductory Shor/order-finding context; Grover/amplitude-amplification details have partly **classmate-supported reconstruction** provenance. **No personal implementation implied**.
 - In QPL: Bernstein–Vazirani and Simon’s oracle setting, phase kickback and GF(2) post-processing as taught topics.
 
 ### Classical and quantum optimization
-- Selected classical graph and approximation techniques: maximal-matching vertex-cover approximations, maximum acyclic subgraph reasoning, bin-covering formulations, and ILP/LP ideas.
-- Approximation Algorithms is a **source-supported topics from a course not claimed as completed**; these are not represented as completed graded expertise.
+- Selected graph/optimization homework: Independent Set-to-Vertex Cover reasoning, directed acyclic subgraphs, geometric diameter, maximal matchings, Bin Covering ILP, Set Cover/Set Packing, LP relaxations and primal–dual methods.
+- Metric versus unrestricted TSP, local-search Max-Cut guarantees and metric Steiner Tree constructions are also documented as **assigned theoretical problems**, not student-built software.
+- Approximation Algorithms provides **source-supported studied topics** from a course **not claimed as completed**; instructor exercise sheets do not alone prove independent solution of every assignment.
 - Adiabatic Hamiltonian interpolation, gaps, quantum annealing, Max-Cut/Ising/QUBO encodings at QPL coursework level.
 - Parameterized quantum circuits, expectation values, classical optimizers and introductory VQE; future optimization experiments must be personally executed and verified.
 
 ### Physical computing interfaces
 - The distinction between abstract algorithms and implementation on superconducting, trapped-ion and photonic hardware.
 - Coherence, physical resources, DiVincenzo criteria and noise considerations as **academic knowledge**, not calibration/hardware execution experience.
+
+## Four-semester provenance and code audit
+
+- **QIT and QTC** are overlapping source collections of the introductory quantum-information curriculum. They are not counted as two independent university pass results.
+- Three Python solution scripts stored with *Applied Quantum Computing* identify an external instructor author; they are **not personally authored quantum-software artifacts**.
+- Two `build_visuals.py` files from the ACQC `_AI_WORKSPACE` create educational illustrations; no personal end-to-end execution, quantum-algorithm implementation or validation is established.
+- Some later ACQC QFT, Shor and Grover notes derive from classmate-provided material and AI-supported reconstruction. They remain learning references with lower provenance confidence than lecturer recordings.
+- The formal ACQC graded component is recorded as passed in the academic record, while completion of the parent module remains separately unresolved. *Approximation Algorithms* has studied-topic evidence without course completion.
 
 ## Existing public learning work
 
