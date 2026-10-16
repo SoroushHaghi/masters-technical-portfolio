@@ -7,7 +7,7 @@ TU Braunschweig, Germany
 
 ---
 
-**[Browse the complete Course Coverage & Evidence Index →](COURSE_COVERAGE.md)** — a course-by-course map of documented topics, academic status, evidence type, and links to the three domains.
+**[Browse the complete Course Coverage & Evidence Index →](COURSE_COVERAGE.md)** — a four-semester text-evidence map covering scientific topics, academic status, contribution boundaries, and the three domains.
 
 ## Explore the three domains
 
