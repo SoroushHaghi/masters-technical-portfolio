@@ -11,9 +11,11 @@ TU Braunschweig, Germany
 
 | Domain | Scientific focus | Evidence so far |
 | :--- | :--- | :--- |
-| **01 · Communication, Information & Coding Theory** | Information theory · Channel coding · Error correction · Network information theory · Quantum communication / QKD | Graded analytical work · Collaborative MATLAB coding-theory lab · Technical presentations |
-| **02 · Computing, Algorithms & Optimization** | Quantum computing · Quantum algorithms · Computational complexity · Classical / quantum optimization · Scientific programming | [Quantum Programming Languages Lab ↗](https://github.com/SoroushHaghi/quantum_programming_languages_lab) · Course-based algorithm studies |
-| **03 · Quantum Devices & Physical Systems** | Semiconductor / GaN technology · Quantum hardware concepts · Nonlinear photonics · Nano-optics · Electromagnetics | Nonlinear-photonics exercises · Crystal-defects presentation · Plasmonic-metasurface literature study |
+| **[01 · Communication, Information & Coding Theory](domains/communication-information-coding.md)** | Information theory · Channel coding · Error correction · Network information theory · Quantum communication / QKD | Graded analytical work · Collaborative MATLAB coding-theory lab · Technical presentations |
+| **[02 · Computing, Algorithms & Optimization](domains/computing-algorithms-optimization.md)** | Quantum computing · Quantum algorithms · Computational complexity · Classical / quantum optimization · Scientific programming | [Quantum Programming Languages Lab ↗](https://github.com/SoroushHaghi/quantum_programming_languages_lab) · Course-based algorithm studies |
+| **[03 · Quantum Devices & Physical Systems](domains/quantum-devices-physical-systems.md)** | Semiconductor / GaN technology · Quantum hardware concepts · Nonlinear photonics · Nano-optics · Electromagnetics | Nonlinear-photonics exercises · Crystal-defects presentation · Plasmonic-metasurface literature study |
+
+Each domain now has a **detailed course-and-evidence map**: scientific concepts, coursework records, actual contribution limits, and proposed follow-up experiments. Select a linked domain above to explore.
 
 Some topics naturally connect multiple domains—for example, **quantum error correction** links information theory and quantum computing, while **photonics** connects communications and physical devices.
 
