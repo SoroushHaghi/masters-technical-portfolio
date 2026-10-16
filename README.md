@@ -7,6 +7,8 @@ TU Braunschweig, Germany
 
 ---
 
+**[Browse the complete Course Coverage & Evidence Index →](COURSE_COVERAGE.md)** — a course-by-course map of documented topics, academic status, evidence type, and links to the three domains.
+
 ## Explore the three domains
 
 | Domain | Scientific focus | Evidence so far |
@@ -15,7 +17,7 @@ TU Braunschweig, Germany
 | **[02 · Computing, Algorithms & Optimization](domains/computing-algorithms-optimization.md)** | Quantum computing · Quantum algorithms · Computational complexity · Classical / quantum optimization · Scientific programming | [Quantum Programming Languages Lab ↗](https://github.com/SoroushHaghi/quantum_programming_languages_lab) · Course-based algorithm studies |
 | **[03 · Quantum Devices & Physical Systems](domains/quantum-devices-physical-systems.md)** | Semiconductor / GaN technology · Quantum hardware concepts · Nonlinear photonics · Nano-optics · Electromagnetics | Nonlinear-photonics exercises · Crystal-defects presentation · Plasmonic-metasurface literature study |
 
-Each domain now has a **detailed course-and-evidence map**: scientific concepts, coursework records, actual contribution limits, and proposed follow-up experiments. Select a linked domain above to explore.
+Each domain contains a **course-and-evidence map** covering scientific concepts, documented coursework, contribution boundaries, cross-domain links, and future verification ideas. The [complete course index](COURSE_COVERAGE.md) tracks all subjects in one place.
 
 Some topics naturally connect multiple domains—for example, **quantum error correction** links information theory and quantum computing, while **photonics** connects communications and physical devices.
 
@@ -41,7 +43,7 @@ A topic-organized record of quantum programming coursework, with illustrative AI
 | **Practical evidence** | Reviewed exercises, collaborative contributions, and personally validated results |
 | **Independent projects** | Tested code, reproducible simulations, benchmarks, and links to dedicated repositories |
 
-This is a **growing portfolio**, not a claim that every topic listed above has already been implemented independently.
+This is a **growing, source-bounded portfolio**, not a claim of independent implementation or mastery of every topic. Complementary language/mentoring coursework is tracked separately in the [course index](COURSE_COVERAGE.md), rather than forced into technical categories.
 
 **Next directions:** Verify the QPL examples through hands-on testing; build an independent coding/error-correction experiment; develop a quantum-communication study alongside the QKD seminar.
 
