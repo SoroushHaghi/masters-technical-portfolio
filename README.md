@@ -1,37 +1,48 @@
 # Master's Technical Portfolio
 
-An evolving, topic-oriented record of my M.Sc. studies in **Quantum Technologies in Electrical and Computer Engineering** at **TU Braunschweig**.
+**M.Sc. Quantum Technologies in Electrical and Computer Engineering**  
+TU Braunschweig, Germany
 
-This portfolio connects academic foundations, selected coursework, and technical projects across three overlapping areas. It grows as I review earlier work, reconstruct examples, and produce independently checked implementations.
+*Connecting academic foundations with technical evidence, reproducible experiments, and independent projects.*
 
-## Areas of focus
+---
 
-### 1. Communication, Information & Coding Theory
+## Explore the three domains
 
-**Topics:** Information theory; source and channel coding; error correction; network information theory; quantum communication; quantum key distribution (QKD); optical communication systems.
+| Domain | Scientific focus | Evidence so far |
+| :--- | :--- | :--- |
+| **01 · Communication, Information & Coding Theory** | Information theory · Channel coding · Error correction · Network information theory · Quantum communication / QKD | Graded analytical work · Collaborative MATLAB coding-theory lab · Technical presentations |
+| **02 · Computing, Algorithms & Optimization** | Quantum computing · Quantum algorithms · Computational complexity · Classical / quantum optimization · Scientific programming | [Quantum Programming Languages Lab ↗](https://github.com/SoroushHaghi/quantum_programming_languages_lab) · Course-based algorithm studies |
+| **03 · Quantum Devices & Physical Systems** | Semiconductor / GaN technology · Quantum hardware concepts · Nonlinear photonics · Nano-optics · Electromagnetics | Nonlinear-photonics exercises · Crystal-defects presentation · Plasmonic-metasurface literature study |
 
-**Current evidence:** Graded analytical coursework, a collaborative MATLAB-based computational coding-theory lab, and technical presentations on information and quantum communication.
+Some topics naturally connect multiple domains—for example, **quantum error correction** links information theory and quantum computing, while **photonics** connects communications and physical devices.
 
-### 2. Computing, Algorithms & Optimization
+---
 
-**Topics:** Quantum information and computing; quantum algorithms; computational complexity; classical and quantum optimization; scientific programming.
+## Featured learning portfolio
 
-**Current learning portfolio:** [Quantum Programming Languages Lab](https://github.com/SoroushHaghi/quantum_programming_languages_lab) — a topic-organized guide to the course, with AI-assisted educational code reconstructions. Personal execution, testing, and independent experiments are separate milestones and are not claimed as completed.
+### [Quantum Programming Languages →](https://github.com/SoroushHaghi/quantum_programming_languages_lab)
 
-### 3. Quantum Devices & Physical Systems
+**Quantum circuits · Qiskit · Oracle algorithms · Adiabatic optimization · VQE**
 
-**Topics:** Semiconductor and GaN technology; quantum hardware principles; nonlinear photonics; nano-optics; electromagnetic field theory.
+A topic-organized record of quantum programming coursework, with illustrative AI-assisted code reconstructions.
 
-**Current evidence:** Analytical nonlinear-photonics exercises, a presentation on crystal defects, and a literature-based plasmonic-metasurface study. These do not imply hands-on device fabrication or personal FDTD experiments.
+**Current evidence:** Course topics and reference examples are documented. Independent student execution, reproducible tests, and original experiments are the next steps—not completed results.
 
-## How this portfolio grows
+---
 
-- **Academic knowledge:** concise, source-grounded explanations of selected topics.
-- **Verified technical work:** student-understood calculations, implementations, tests, simulations, and reproducible results, added as they become available.
-- **Independent projects:** dedicated repositories linked here when an actual technical problem and validated work justify them.
+## From knowledge to demonstrated work
 
-Topics can belong to more than one area. Each published artifact should distinguish academic exposure, collaborative work, AI-assisted examples, and independently verified contributions.
+| Stage | What appears here |
+| :--- | :--- |
+| **Academic foundations** | Selected concepts, calculations, and coursework with a clear source and scope |
+| **Practical evidence** | Reviewed exercises, collaborative contributions, and personally validated results |
+| **Independent projects** | Tested code, reproducible simulations, benchmarks, and links to dedicated repositories |
 
-Instructor-provided materials, private study notes, and personal university records are not redistributed here.
+This is a **growing portfolio**, not a claim that every topic listed above has already been implemented independently.
 
-*This is a personal technical portfolio, not an official TU Braunschweig or course-provider repository.*
+**Next directions:** Verify the QPL examples through hands-on testing; build an independent coding/error-correction experiment; develop a quantum-communication study alongside the QKD seminar.
+
+---
+
+<sub>Personal academic portfolio. Course-provider materials, private study notes, and university records are not redistributed. This is not an official TU Braunschweig repository.</sub>
