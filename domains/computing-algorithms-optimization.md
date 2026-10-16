@@ -1,6 +1,6 @@
 # Computing, Algorithms & Optimization
 
-[← Portfolio overview](../README.md) · [Communication & coding →](communication-information-coding.md) · [Devices & physical systems →](quantum-devices-physical-systems.md)
+[← Portfolio overview](../README.md) · [All courses and evidence](../COURSE_COVERAGE.md) · [Communication & coding →](communication-information-coding.md) · [Devices & physical systems →](quantum-devices-physical-systems.md)
 
 **Scientific question:** How can computational problems be represented, analyzed, simulated and solved using classical and quantum algorithms?
 
@@ -14,7 +14,7 @@ This domain links quantum information foundations with computer-science algorith
 | **Advanced Quantum Technology for Engineers** *(cross-listed)* | Quantum-mechanical operators and eigenvalue problems, Schrödinger dynamics, perturbation methods, multi-particle principles, platform foundations | Passed M.Sc. coursework; primarily analytical |
 | **Applied Quantum Computing: Basics and Devices** *(cross-listed)* | Qubit/circuit concepts; DiVincenzo criteria, physical qubit platforms, coherence and hardware constraints | Passed M.Sc. coursework; device principles rather than demonstrated control-code development |
 | **Algorithms and Complexity for Quantum Computing** | Computational models; state, operation and measurement; quantum circuit concepts; complexity classes, reductions, quantum algorithm contexts | A **5-ECTS graded examination/component passed**; official module-completion annotation requires separate confirmation |
-| **Approximation Algorithms** | Approximation ratios, matching-based techniques, graph problems, reductions, mathematical programming, Graph/Metric TSP | **Topics studied; course not passed.** No completed-module claim |
+| **Approximation Algorithms** | Approximation ratios, matching-based techniques, graph problems, reductions, mathematical programming, Graph/Metric TSP | **Studied topics only; no completed-module credential claimed** |
 | **Quantum Programming Languages** *(ongoing, external to the TU degree)* | Foundations, optical/continuous-variable computation, adiabatic optimization, Qiskit circuits, Bernstein–Vazirani, Simon, and introductory VQE | [Public topic-oriented learning repo](https://github.com/SoroushHaghi/quantum_programming_languages_lab); AI-assisted reference code exists, personally executed/tested results not yet verified |
 
 ## Scientific topics
@@ -34,7 +34,7 @@ This domain links quantum information foundations with computer-science algorith
 
 ### Classical and quantum optimization
 - Selected classical graph and approximation techniques: maximal-matching vertex-cover approximations, maximum acyclic subgraph reasoning, bin-covering formulations, and ILP/LP ideas.
-- Approximation Algorithms is a **studied but unpassed course**; these are not represented as completed graded expertise.
+- Approximation Algorithms is a **source-supported topics from a course not claimed as completed**; these are not represented as completed graded expertise.
 - Adiabatic Hamiltonian interpolation, gaps, quantum annealing, Max-Cut/Ising/QUBO encodings at QPL coursework level.
 - Parameterized quantum circuits, expectation values, classical optimizers and introductory VQE; future optimization experiments must be personally executed and verified.
 
@@ -53,6 +53,14 @@ Illustrative AI-assisted study code includes GHZ-state, Bernstein–Vazirani and
 ### Existing software foundations, outside the M.Sc. coursework claim
 
 Separately documented Python/ML project experience and AI-assisted system development support general programming and engineering ability. They must not be silently re-labeled as quantum-software implementation. The [Career OS framework](https://github.com/SoroushHaghi/career-os) is a separate software/system-design project, not a quantum algorithm.
+
+## Connections to other domains
+
+- **Quantum error correction:** Classical coding, Hamming distance and syndrome ideas are described under [Communication, Information & Coding Theory](communication-information-coding.md); a quantum demonstration would require separate student implementation and validation.
+- **Quantum hardware:** The practical physical constraints on gates and qubits connect to [Quantum Devices & Physical Systems](quantum-devices-physical-systems.md).
+- **QPL topic pages:** [Quantum foundations](https://github.com/SoroushHaghi/quantum_programming_languages_lab/blob/main/topics/quantum-foundations-and-gates.md) · [Qiskit circuits](https://github.com/SoroushHaghi/quantum_programming_languages_lab/blob/main/topics/qiskit-circuits.md) · [Oracle algorithms](https://github.com/SoroushHaghi/quantum_programming_languages_lab/blob/main/topics/oracle-algorithms.md) · [Variational methods](https://github.com/SoroushHaghi/quantum_programming_languages_lab/blob/main/topics/variational-algorithms.md). These link to learning documentation, not verified independent execution.
+
+For an at-a-glance map of every relevant course and its status, see the [Course Coverage & Evidence Index](../COURSE_COVERAGE.md).
 
 ## Practical project directions — not yet completed
 
