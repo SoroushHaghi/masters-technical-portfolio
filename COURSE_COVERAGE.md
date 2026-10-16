@@ -34,7 +34,7 @@ A **course-to-topic map** of documented M.Sc. learning at TU Braunschweig, plus 
 | --- | --- | --- |
 | Introduction to Quantum Information Technology and Quantum Computing | Completed coursework | Quantum states, measurements, channels, entanglement, gates · [Explore](domains/computing-algorithms-optimization.md) |
 | Advanced Quantum Technology for Engineers | Completed coursework | Quantum physics, operators, Schrödinger problems, physical foundations · [Computing](domains/computing-algorithms-optimization.md) / [Devices](domains/quantum-devices-physical-systems.md) |
-| Algorithms and Complexity for Quantum Computing | **Passed graded component; module status pending** | The verified 5-ECTS graded assessment is passed; the latest inspected official annotation still marks the parent module incomplete · [Explore](domains/computing-algorithms-optimization.md) |
+| Algorithms and Complexity for Quantum Computing | **Passed graded component; module status pending** | The verified 5-ECTS graded assessment is passed; an earlier verified official transcript marks the parent module incomplete; subsequent full-module completion is not established in this index · [Explore](domains/computing-algorithms-optimization.md) |
 | Approximation Algorithms | Studied topics | Approximation reasoning, graph problems, reductions, optimization formulations; **no completed-course claim** · [Explore](domains/computing-algorithms-optimization.md) |
 | Quantum Programming Languages (PsiKet Academy) | External learning (ongoing) | Quantum circuits, Qiskit, oracle algorithms, variational and adiabatic methods · [Learning repository](https://github.com/SoroushHaghi/quantum_programming_languages_lab) |
 
@@ -52,9 +52,9 @@ A **course-to-topic map** of documented M.Sc. learning at TU Braunschweig, plus 
 
 ## Complementary study and professional development
 
-The degree record also contains **Mentoring** and German-language coursework (A1.2 and A2.2). These belong to professionalisation/language development rather than being forced into one of the three technical domains. They are not evidence of an external language examination or certification.
+The degree record also contains **Mentoring**, **German A1.2**, and **German A2.2** coursework. These belong to professionalisation/language development rather than being forced into one of the three technical domains. They are not evidence of an external language examination or certification.
 
-Courses with cancelled admissions or no supported academic learning outcomes are deliberately excluded from this *public technical knowledge* map; it is not a replacement for an official transcript.
+Only relevant academic material with documented topic evidence appears in this public map. It is **not** a replacement for an official transcript.
 
 ## Existing work and what it actually demonstrates
 
