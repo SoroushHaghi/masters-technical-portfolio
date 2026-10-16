@@ -1,6 +1,6 @@
 # Quantum Devices & Physical Systems
 
-[← Portfolio overview](../README.md) · [Communication & coding →](communication-information-coding.md) · [Computing & algorithms →](computing-algorithms-optimization.md)
+[← Portfolio overview](../README.md) · [All courses and evidence](../COURSE_COVERAGE.md) · [Communication & coding →](communication-information-coding.md) · [Computing & algorithms →](computing-algorithms-optimization.md)
 
 **Scientific question:** Which physical principles, materials and technologies make electronic, optical and quantum devices possible—and how can their behavior be modeled?
 
@@ -16,7 +16,7 @@ This domain covers semiconductor materials and devices, nonlinear optics, electr
 | **Advanced Quantum Technology for Engineers** | Operators, Schrödinger problems, particles and quantum-state physics used to reason about device behavior | Passed M.Sc. coursework; cross-listed with quantum computing |
 | **Nonlinear Photonics** | Nonlinear susceptibilities, wave mixing, phase matching, pulse propagation and nonlinear fiber effects | Passed coursework plus preserved analytical exercises |
 | **Advanced Applications of Field Theory** | Static/dynamic field models, Maxwell equations, magnetic fields and energy, electromagnetic wave/radiation analysis | Passed M.Sc. coursework; analytical rather than hands-on measurement |
-| **Fundamentals of Nano Optics** | Nano-optics/plasmonic concepts and interpretation of metasurface studies | **Topics encountered; not a passed module.** No personal FDTD simulation claim |
+| **Fundamentals of Nano Optics** | Nano-optics/plasmonic concepts and interpretation of metasurface studies | **Studied topics only; no completed-module credential or personal FDTD work claimed** |
 | **Earlier electromagnetic field-theory exposure** | Classical/quantum-mechanical field-theory context | **Not represented as a separately completed module** |
 
 ## Scientific topics
@@ -55,6 +55,14 @@ This domain covers semiconductor materials and devices, nonlinear optics, electr
 | **Sn nanobar plasmonic metasurface journal club** | Interpretation of a published metasurface geometry and reported FDTD/resonance findings | Not personal FDTD/Lumerical modeling or original experimental results |
 | **Passed semiconductor/GaN/quantum-device modules** | Completed academic training in relevant material and device physics | Not a standalone verified device-design project |
 | **Field-theory coursework** | Analytical methods and physical interpretation | Not hands-on RF/antenna design or test engineering |
+
+## Connections to other domains
+
+- **Optical communication:** Dispersion and nonlinear propagation have communication-system applications; see [Communication, Information & Coding Theory](communication-information-coding.md).
+- **Quantum hardware:** Superconducting, trapped-ion and photonic qubit concepts connect device constraints to [Computing, Algorithms & Optimization](computing-algorithms-optimization.md).
+- **Electromagnetic foundations:** Field and wave analysis support both physical modeling here and optical-channel understanding in the [communication domain](communication-information-coding.md).
+
+See the [Course Coverage & Evidence Index](../COURSE_COVERAGE.md) for formal status and cross-domain course placement.
 
 ## Practical project directions — not yet completed
 
