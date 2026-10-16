@@ -10,12 +10,12 @@ This domain covers semiconductor materials and devices, nonlinear optics, electr
 
 | Course | Source-supported focus | Evidence status |
 | --- | --- | --- |
-| **Semiconductor Technology** | Semiconductor materials, CMOS/manufacturing-process concepts, doping and junction/process steps, electronic device principles | Passed M.Sc. coursework |
-| **Gallium Nitride Technology** | III-nitride materials, polarization, 2DEG, GaN HEMTs, LED recombination and reliability concepts | Passed M.Sc. coursework |
+| **Semiconductor Technology** | Semiconductor processing, CMOS steps, lithography, doping/annealing, deposition (CVD/PVD/ALD/MOCVD) and packaging concepts | Passed M.Sc. coursework |
+| **Gallium Nitride Technology** | III-nitride LEDs, SRH/radiative/Auger and ABC recombination, interface polarization/2DEG and GaN HEMTs | Passed M.Sc. coursework |
 | **Applied Quantum Computing: Basics and Devices** | Physical qubits, quantum-computer implementation criteria, coherence, superconducting/trapped-ion/photonic architectures | Passed M.Sc. coursework; conceptual hardware foundations |
 | **Advanced Quantum Technology for Engineers** | Operators, Schrödinger problems, particles and quantum-state physics used to reason about device behavior | Passed M.Sc. coursework; cross-listed with quantum computing |
 | **Nonlinear Photonics** | Nonlinear susceptibilities, wave mixing, phase matching, pulse propagation and nonlinear fiber effects | Passed coursework plus preserved analytical exercises |
-| **Advanced Applications of Field Theory** | Static/dynamic field models, Maxwell equations, magnetic fields and energy, electromagnetic wave/radiation analysis | Passed M.Sc. coursework; analytical rather than hands-on measurement |
+| **Advanced Applications of Field Theory** | Magnetostatics, induction, magnetic energy/inductance, layered coaxial fields, plane waves, radiation, skin depth and boundary methods | Passed M.Sc. coursework; analytical rather than hands-on measurement |
 | **Fundamentals of Nano Optics** | Nano-optics/plasmonic concepts and interpretation of metasurface studies | **Studied topics only; no completed-module credential or personal FDTD work claimed** |
 | **Earlier electromagnetic field-theory exposure** | Classical/quantum-mechanical field-theory context | **Not represented as a separately completed module** |
 
@@ -23,9 +23,9 @@ This domain covers semiconductor materials and devices, nonlinear optics, electr
 
 ### Semiconductor technology and GaN devices
 - Crystal defects and dislocations: Burgers vectors, glide/climb and defect multiplication.
-- Processing concepts: lithography, implantation/diffusion/annealing, thin-film deposition, etching, contacts and interconnects.
+- Processing concepts: lithography, implantation/diffusion/annealing, thin-film deposition (PVD, CVD, ALD and MOCVD), etching, contacts, packaging and hybrid integration.
 - GaN/III-nitride properties, polarization-induced two-dimensional electron gases (2DEG), HEMT concepts and reliability.
-- GaN light emitters and recombination processes, including ABC-model concepts.
+- GaN light emitters and recombination processes, including the ABC model: defect-assisted Shockley–Read–Hall, radiative and Auger components and their carrier-density dependence.
 - **Boundary:** Coursework and technical presentations do not establish cleanroom fabrication, TCAD operation, device measurements or production engineering.
 
 ### Nonlinear photonics and optical fields
@@ -33,18 +33,28 @@ This domain covers semiconductor materials and devices, nonlinear optics, electr
 - SHG, THG, SFG/DFG, four-wave mixing and phase matching.
 - Kerr effects, SPM/XPM, stimulated Raman/Brillouin scattering, parametric amplification/oscillation and optical solitons.
 - Dispersion, group/phase velocity, optical pulse broadening and propagation mechanisms.
+- Optical solitons are studied conceptually as a balance of dispersive and nonlinear effects, not as verified personal pulse-propagation simulations.
 - **Boundary:** The archived work supports mathematical analysis, not experimental nonlinear-optics measurements.
 
 ### Electromagnetics and physical modeling
 - Electric/magnetic field distributions, Ampère/Faraday laws and electromagnetic induction.
+- Detailed assigned field-theory models: wires and cylindrical current densities; induction/Joule heating; magnetic self-inductance; radially layered dielectric coaxial capacitance.
 - Displacement current, magnetic energy, Poynting-vector energy flow, and radiation/antenna concepts.
 - Field-boundary problems and geometry-driven analytical methods used in coursework.
+- Plane-wave interfaces, causal radiation and Hertzian dipoles; antenna-pattern superposition, skin-depth attenuation, waveguide reflection and grounded-conductor image charges as **course exercise problems**.
 - **Boundary:** Passing analytical field-theory work is not evidence of operating RF instruments or validating a fabricated antenna.
 
 ### Quantum hardware foundations and nano-optics
 - Physical qubit-platform concepts: superconducting circuits, trapped ions and optical/photonic approaches.
 - DiVincenzo criteria, coherence times and hardware-level implementation constraints as academic topics.
-- Plasmonic/nanostructured optical response, nanobar/metasurface ideas and published finite-difference time-domain (FDTD) simulations **reviewed from literature**, not personally run.
+- Plasmonic/nanostructured optical response, evanescent fields, optical waveguides/gratings, nanobar/metasurface ideas and published finite-difference time-domain (FDTD) simulations **reviewed from literature**, not personally run.
+
+## Four-semester source boundaries
+
+- The *NLPh* and *NLP* collections refer to reused/continued **Nonlinear Photonics** material; the second folder is **not** Natural Language Processing and is not an additional independent passed module.
+- The semiconductor-defects and plasmonic-metasurface presentations are technical **literature syntheses**, not personally performed fabrication, measurements or FDTD modeling. Published simulation results belong to the article authors.
+- GaN exercises and field-theory sheets document relevant scientific problems, but supplied solutions and question sheets are not proof that all tasks were solved independently. **Advanced Applications of Field Theory** is recorded as passed in the separate academic record.
+- Earlier Electromagnetic Field Theory and Nano Optics materials contribute useful concepts but are not represented as separate completed credentials.
 
 ## Existing documented academic work
 
