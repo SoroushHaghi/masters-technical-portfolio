@@ -1,6 +1,6 @@
 # Communication, Information & Coding Theory
 
-[← Portfolio overview](../README.md) · [Computing & algorithms →](computing-algorithms-optimization.md) · [Devices & physical systems →](quantum-devices-physical-systems.md)
+[← Portfolio overview](../README.md) · [All courses and evidence](../COURSE_COVERAGE.md) · [Computing & algorithms →](computing-algorithms-optimization.md) · [Devices & physical systems →](quantum-devices-physical-systems.md)
 
 **Focus:** Mathematical limits of communication, information representation, error correction, classical and quantum channels, and optical-network foundations.
 
@@ -47,6 +47,14 @@ This is a map of academic topics and observed coursework. It does not imply a bu
 | **Channel Coding with State presentation** | Technical synthesis of state-dependent channels, random binning and dirty-paper coding |
 | **Quantum Communication Networks presentation** | Technical synthesis of quantum states, CHSH, entanglement, dense coding and teleportation |
 | **Nonlinear Photonics exercises** | Analytical wave/optical calculations; no original experimental measurements |
+
+## Connections to other domains
+
+- **Coding → quantum error correction:** Classical error models and syndromes can motivate a small quantum model; see [Computing, Algorithms & Optimization](computing-algorithms-optimization.md).
+- **Optical channels → physical photonics:** Phase matching, dispersion and electromagnetic propagation are cross-listed under [Quantum Devices & Physical Systems](quantum-devices-physical-systems.md).
+- **Quantum networks → algorithms:** Entanglement, gates, measurements and channels underpin both [quantum communication](#networks-and-quantum-communication) and the [computing domain](computing-algorithms-optimization.md).
+
+See the [Course Coverage & Evidence Index](../COURSE_COVERAGE.md) for status and coverage across the wider M.Sc.
 
 ## Possible next experiments (proposals, not outcomes)
 
