@@ -2,7 +2,7 @@
 
 **M.Sc. Quantum Technologies in Electrical and Computer Engineering** · TU Braunschweig, Germany
 
-**Choose a domain below** for its complete course → topics → evidence table.
+**Choose a domain below** for its details.
 
 ## I'm exploring through 3 domains!
 
