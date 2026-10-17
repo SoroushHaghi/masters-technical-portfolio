@@ -1,12 +1,10 @@
-# Master's Technical Portfolio
+# Master's Technical Portfolio (since 2024)
 
 **M.Sc. Quantum Technologies in Electrical and Computer Engineering** · TU Braunschweig, Germany
 
-A quick, evidence-linked map of **what I studied**, **which courses covered it**, and **what academic work I can document**.
-
 **Choose a domain below** for its complete course → topics → evidence table.
 
-## Explore the three domains
+## I'm exploring through 3 domains!
 
 | Scientific domain | Main courses | Scientific areas | Evidence I have |
 | --- | --- | --- | --- |
@@ -14,13 +12,11 @@ A quick, evidence-linked map of **what I studied**, **which courses covered it**
 | **[02 · Computing, Algorithms & Optimization](domains/computing-algorithms-optimization.md)** | • Introduction to Quantum Information Technology and Quantum Computing<br>• Advanced Quantum Technology for Engineers<br>• Algorithms and Complexity for Quantum Computing<br>• Approximation Algorithms<br>• Quantum Programming Languages *(external, ongoing)*<br>• Applied Quantum Computing: Basics and Devices | • Quantum information & computing<br>• Quantum algorithms & complexity<br>• Quantum programming & simulation<br>• Classical approximation topics (academic exposure) | • Passed quantum-information and quantum-algorithms assessments<br>• Analytical coursework and theoretical exercises<br>• Ongoing QPL topic notes and AI-assisted Qiskit reference examples (not independently validated)<br>• Approximation Algorithms studied, not passed |
 | **[03 · Quantum Devices & Physical Systems](domains/quantum-devices-physical-systems.md)** | • Semiconductor Technology<br>• Gallium Nitride Technology<br>• Applied Quantum Computing: Basics and Devices<br>• Advanced Quantum Technology for Engineers<br>• Nonlinear Photonics<br>• Advanced Applications of Field Theory<br>• Fundamentals of Nano Optics | • Semiconductor and GaN devices<br>• Physical quantum-computing architectures<br>• Nonlinear and nano-optics<br>• Electromagnetic fields & waves | • Passed device/physics coursework<br>• Preserved photonics and field-theory analytical exercises<br>• Individual crystal-defects presentation<br>• Sn-nanobar metasurface literature presentation (published FDTD results reviewed, not reproduced) |
 
-## Featured practical learning
+## learning beyond University
 
 **[Quantum Programming Languages — Learning Lab ↗](https://github.com/SoroushHaghi/quantum_programming_languages_lab)**
 
 Quantum circuits · Qiskit · Bernstein–Vazirani · Simon · adiabatic optimization · introductory VQE
-
-Topic-organized notes and AI-assisted educational example code. The course is ongoing; independent end-to-end execution and validation of these examples are **not yet demonstrated**.
 
 ---
 
