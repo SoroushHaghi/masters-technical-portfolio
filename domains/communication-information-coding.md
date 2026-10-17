@@ -2,9 +2,6 @@
 
 [← Portfolio overview](../README.md) · [Computing →](computing-algorithms-optimization.md) · [Devices →](quantum-devices-physical-systems.md)
 
-**What I studied:** Information theory, source and channel coding, error correction, multiuser information theory, and quantum communication.
-
-## Course → topics → evidence
 
 | Scientific area | Course | First documented term | Specific topics studied | Evidence I have | Lecturer(s) / course faculty |
 | --- | --- | --- | --- | --- | --- |
@@ -17,6 +14,5 @@
 | **Electromagnetic foundations** | **Advanced Applications of Field Theory** *(also in the Quantum Devices & Physical Systems domain)* | SS 2026 · S4 | Ampère/Faraday laws; electromagnetic induction; Poynting-vector energy flow; waves and radiation | • **Passed**<br>• Analytical field-theory coursework | Prof. Thomas Kämpfe |
 | **QKD / optical networks** | **QKD and next-generation optical networks seminar** | SS 2026 · S4 (preparing) | Literature on co-propagation of quantum-key-distribution signals and classical optical traffic | • **In preparation**<br>• Reading and seminar preparation materials; no final presentation or experiment yet | Not yet verified |
 
-**Chronology:** Earliest documented course term first (from the four-semester source inventory), not exam date. Courses within a term are grouped; exact lecture order is not asserted.
 
-**Faculty attribution:** Names identify university-listed lecturers, module owners, or teaching staff—not verified individual classroom attendance, direct supervision, or personal contact. Sources: [QTEC WS 2024/25 timetable](https://www.tu-braunschweig.de/fileadmin/Redaktionsgruppen/Fakultaeten/FK5/dokumente/qtec_msc/MA_QTEC_WS_24-25_01.pdf) · [QTEC WS 2025/26 timetable](https://www.tu-braunschweig.de/fileadmin/Redaktionsgruppen/Fakultaeten/FK5/dokumente/qtec_msc/MA_QTEC_WS_25-26_01.pdf) · [QTEC SS 2026 timetable](https://www.tu-braunschweig.de/fileadmin/Redaktionsgruppen/Fakultaeten/FK5/dokumente/qtec_msc/MA_QTEC_SS_2026.pdf) · [QTEC 2023 module guide](https://www.tu-braunschweig.de/fileadmin/Redaktionsgruppen/Fakultaeten/FK5/dokumente/qtec_msc/Modulhandbuch_QTEC_MSc_2023_Stand_16.01.2023.pdf) · [TU Coding Theory teaching team](https://www.tu-braunschweig.de/en/ifn/edu/ss/ct) · [TU Computational Coding lab](https://www.tu-braunschweig.de/en/ifn/edu/ss/r-ct). Seminar and external-course faculty remain unverified.
+*Source material and university records remain private; this page is a summary of bounded academic evidence.*
