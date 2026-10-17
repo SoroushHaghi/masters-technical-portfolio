@@ -16,14 +16,6 @@
 | **Electromagnetic fields & waves** | **Advanced Applications of Field Theory** *(also Communication)* | Magnetostatics; Ampère/Faraday laws; induction; magnetic energy and inductance; layered coaxial fields; Poynting theorem; plane waves, radiation, skin depth and image-charge methods | **Passed** · Field-theory exercises and written analytical work |
 | **Nano-optics & plasmonics** | **Fundamentals of Nano Optics** | Plasmonic response; evanescent fields; nanostructures, waveguides/gratings and metasurfaces; interpreting published FDTD studies | **Studied topics** · Individual Sn-nanobar plasmonic-metasurface literature presentation; no passed-module claim |
 
-## Evidence scope
-
-- A **passed course** supports academic knowledge; it does not establish cleanroom fabrication, device testing, RF-instrument operation or quantum-hardware control.
-- The *Crystal Defects* and *plasmonic metasurface* presentations synthesize **published literature**. Reported FDTD simulations belong to the paper authors; no personally run FDTD/TCAD simulation is claimed.
-- The preserved *Nonlinear Photonics* submissions show analytical coursework, not laboratory optical measurements.
-- *Fundamentals of Nano Optics* is **studied-topic evidence only**, not a completed qualification.
-- The older **NLPh/NLP** source folder labels both refer to *Nonlinear Photonics*, not two different courses.
-
 **Related work:** [Communication & Coding](communication-information-coding.md) (optical propagation and channels) · [Computing & Algorithms](computing-algorithms-optimization.md) (physical qubit platforms).
 
 *Source material and university records remain private; this page is a summary of bounded academic evidence.*
