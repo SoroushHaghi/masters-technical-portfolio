@@ -4,7 +4,7 @@
 
 A quick, evidence-linked map of **what I studied**, **which courses covered it**, and **what academic work I can document**.
 
-**[View every course, its topics and evidence →](COURSE_COVERAGE.md)**
+**Choose a domain below** for its complete course → topics → evidence table.
 
 ## Explore the three domains
 
@@ -28,7 +28,7 @@ Topic-organized notes and AI-assisted educational example code. The course is on
 
 **Passed course** = academic completion, not automatically an independently implemented skill. **Group work** is labeled collaborative. **Studied topics** and **ongoing training** are not presented as completed modules. Literature presentations and instructor examples are not claimed as original experiments or personal software implementations.
 
-Academic records and private course material are not published in this repository.
+**Source notes:** Based on academic records and course materials reviewed through October 2026. Overlapping QIT/QTC and NLPh/NLP source folders are not extra qualifications. Mentoring and German-language coursework are outside the three technical domains. Private records and course materials are not published.
 
 ---
 
