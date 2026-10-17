@@ -1,6 +1,6 @@
 # 02 · Computing, Algorithms & Optimization
 
-[← Portfolio overview](../README.md) · [Complete course index](../COURSE_COVERAGE.md) · [Communication →](communication-information-coding.md) · [Devices →](quantum-devices-physical-systems.md)
+[← Portfolio overview](../README.md) · [Communication →](communication-information-coding.md) · [Devices →](quantum-devices-physical-systems.md)
 
 **What I studied:** Quantum computing, quantum algorithms, computational complexity, approximation algorithms, and quantum programming.
 
@@ -21,6 +21,7 @@
 - *Approximation Algorithms* has studied-topic and exercise evidence, **not** a passed-course claim.
 - The [Quantum Programming Languages Lab](https://github.com/SoroushHaghi/quantum_programming_languages_lab) contains topic-organized notes and **AI-assisted educational code reconstructions**. Independent execution and validation of the examples have not yet been established.
 - Some quantum-algorithm notes draw on classmate material or AI-supported reconstruction; instructor-authored scripts found in course folders are **not** presented as my code.
+- The **QIT/QTC** material folders overlap for the same introductory quantum-information course; they do **not** count as two completed courses.
 
 **Related work:** [Communication & Coding](communication-information-coding.md) (classical and quantum error correction) · [Quantum Devices](quantum-devices-physical-systems.md) (hardware limitations and qubit platforms).
 
