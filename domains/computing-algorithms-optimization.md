@@ -14,3 +14,10 @@
 
 
 *Source material and university records remain private; this page is a summary of bounded academic evidence.*
+
+## Selected academic work
+
+- [Quantum information, algorithm theory and Qiskit learning record](../selected-work/quantum-computing-learning.md) — assessed theoretical work and ongoing AI-assisted educational examples, **not** an independently validated quantum-software implementation.
+- [Quantum Programming Languages Learning Lab](https://github.com/SoroushHaghi/quantum_programming_languages_lab) — detailed topic checklist and non-production example code.
+
+The communication-domain [Bloch/CHSH technical presentation](../selected-work/quantum-communication-presentation.md) also supports quantum-information literacy; it is cross-referenced rather than claimed as a second independent deliverable.
