@@ -1,52 +1,35 @@
 # Master's Technical Portfolio
 
-**M.Sc. Quantum Technologies in Electrical and Computer Engineering**  
-TU Braunschweig, Germany
+**M.Sc. Quantum Technologies in Electrical and Computer Engineering** · TU Braunschweig, Germany
 
-*Connecting academic foundations with technical evidence, reproducible experiments, and independent projects.*
+A quick, evidence-linked map of **what I studied**, **which courses covered it**, and **what academic work I can document**.
 
----
-
-**[Browse the complete Course Coverage & Evidence Index →](COURSE_COVERAGE.md)** — a four-semester text-evidence map covering scientific topics, academic status, contribution boundaries, and the three domains.
+**[View every course, its topics and evidence →](COURSE_COVERAGE.md)**
 
 ## Explore the three domains
 
-| Domain | Scientific focus | Evidence so far |
-| :--- | :--- | :--- |
-| **[01 · Communication, Information & Coding Theory](domains/communication-information-coding.md)** | Information theory · Channel coding · Error correction · Network information theory · Quantum communication / QKD | Graded analytical work · Collaborative MATLAB coding-theory lab · Technical presentations |
-| **[02 · Computing, Algorithms & Optimization](domains/computing-algorithms-optimization.md)** | Quantum computing · Quantum algorithms · Computational complexity · Classical / quantum optimization · Scientific programming | [Quantum Programming Languages Lab ↗](https://github.com/SoroushHaghi/quantum_programming_languages_lab) · Course-based algorithm studies |
-| **[03 · Quantum Devices & Physical Systems](domains/quantum-devices-physical-systems.md)** | Semiconductor / GaN technology · Quantum hardware concepts · Nonlinear photonics · Nano-optics · Electromagnetics | Nonlinear-photonics exercises · Crystal-defects presentation · Plasmonic-metasurface literature study |
+| Scientific domain | Main courses | Topics I studied | Evidence I have |
+| --- | --- | --- | --- |
+| **[01 · Communication, Information & Coding Theory](domains/communication-information-coding.md)** | Mathematical Foundations of Information Theory and Coding Theory; Coding Theory; Network Information Theory; Quantum Communication Networks | Entropy and prefix coding; Hamming/BCH codes; Slepian–Wolf and dirty-paper coding; CHSH and quantum teleportation | Passed coursework; analytical assignments; collaborative MATLAB coding-theory lab; individual technical presentations |
+| **[02 · Computing, Algorithms & Optimization](domains/computing-algorithms-optimization.md)** | Introduction to Quantum Information Technology and Quantum Computing; Algorithms and Complexity for Quantum Computing; Approximation Algorithms; Quantum Programming Languages *(external)* | Quantum states and circuits; QFT and complexity classes; graph approximation/ILP; Qiskit, oracle algorithms and introductory VQE | Passed quantum-computing/algorithms courses; theoretical exercises; [ongoing QPL learning repository ↗](https://github.com/SoroushHaghi/quantum_programming_languages_lab) |
+| **[03 · Quantum Devices & Physical Systems](domains/quantum-devices-physical-systems.md)** | Semiconductor Technology; Gallium Nitride Technology; Applied Quantum Computing: Basics and Devices; Nonlinear Photonics; Advanced Applications of Field Theory | CMOS processes; GaN HEMTs and recombination; qubit platforms; χ²/χ³ and phase matching; electromagnetic fields | Passed coursework; photonics exercise submissions; crystal-defects and plasmonic-metasurface literature presentations |
 
-Each domain contains a **course-and-evidence map** covering scientific concepts, documented coursework, contribution boundaries, cross-domain links, and future verification ideas. The [complete course index](COURSE_COVERAGE.md) tracks all subjects in one place.
+**The course name is the bridge between each scientific topic and its evidence.** Open a domain above for the complete four-column mapping, including cross-domain courses and topics still in progress.
 
-Some topics naturally connect multiple domains—for example, **quantum error correction** links information theory and quantum computing, while **photonics** connects communications and physical devices.
+## Featured practical learning
 
----
+**[Quantum Programming Languages — Learning Lab ↗](https://github.com/SoroushHaghi/quantum_programming_languages_lab)**
 
-## Featured learning portfolio
+Quantum circuits · Qiskit · Bernstein–Vazirani · Simon · adiabatic optimization · introductory VQE
 
-### [Quantum Programming Languages →](https://github.com/SoroushHaghi/quantum_programming_languages_lab)
+Topic-organized notes and AI-assisted educational example code. The course is ongoing; independent end-to-end execution and validation of these examples are **not yet demonstrated**.
 
-**Quantum circuits · Qiskit · Oracle algorithms · Adiabatic optimization · VQE**
+## How to interpret the evidence
 
-A topic-organized record of quantum programming coursework, with illustrative AI-assisted code reconstructions.
+**Passed course** = academic completion, not automatically an independently implemented skill. **Group work** is labeled collaborative. **Studied topics** and **ongoing training** are not presented as completed modules. Literature presentations and instructor examples are not claimed as original experiments or personal software implementations.
 
-**Current evidence:** Course topics and reference examples are documented. Independent student execution, reproducible tests, and original experiments are the next steps—not completed results.
-
----
-
-## From knowledge to demonstrated work
-
-| Stage | What appears here |
-| :--- | :--- |
-| **Academic foundations** | Selected concepts, calculations, and coursework with a clear source and scope |
-| **Practical evidence** | Reviewed exercises, collaborative contributions, and personally validated results |
-| **Independent projects** | Tested code, reproducible simulations, benchmarks, and links to dedicated repositories |
-
-This is a **growing, source-bounded portfolio**, not a claim of independent implementation or mastery of every topic. Complementary language/mentoring coursework is tracked separately in the [course index](COURSE_COVERAGE.md), rather than forced into technical categories.
-
-**Next directions:** Verify the QPL examples through hands-on testing; build an independent coding/error-correction experiment; develop a quantum-communication study alongside the QKD seminar.
+Academic records and private course material are not published in this repository.
 
 ---
 
-<sub>Personal academic portfolio. Course-provider materials, private study notes, and university records are not redistributed. This is not an official TU Braunschweig repository.</sub>
+<sub>Personal academic portfolio; not an official TU Braunschweig or course-provider repository.</sub>
