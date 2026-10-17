@@ -1,0 +1,92 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 792 612] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 3344 >>
+stream
+1 1 1 rg 0 0 792 612 re f
+0.064 0.130 0.220 rg 0 510 792 102 re f
+0.020 0.570 0.650 rg 0 508 792 3 re f
+0.68 0.88 0.94 rg
+BT /F1 10 Tf 1 0 0 1 42 585 Tm (ACADEMIC PRESENTATION  /  CURATED PUBLIC EXCERPT) Tj ET
+1 1 1 rg
+BT /F2 27 Tf 1 0 0 1 42 545 Tm (Channel Coding with State) Tj ET
+0.82 0.86 0.91 rg
+BT /F1 11 Tf 1 0 0 1 42 526 Tm (Network Information Theory / Academic presentation / 2025) Tj ET
+0.020 0.570 0.650 rg
+BT /F2 11 Tf 1 0 0 1 42 472 Tm (SCIENTIFIC QUESTION) Tj ET
+0.071 0.137 0.233 rg
+BT /F1 12 Tf 1 0 0 1 42 450 Tm (How can channel state information at the encoder help mitigate interference?) Tj ET
+0.020 0.570 0.650 rg
+BT /F2 11 Tf 1 0 0 1 42 408 Tm (KEY POINTS) Tj ET
+0.020 0.570 0.650 rg  52.6 383 m 52.6 384.43594035 51.43594035 385.6 50 385.6 c 48.56405965 385.6 47.4 384.43594035 47.4 383 c 47.4 381.56405965 48.56405965 380.4 50 380.4 c 51.43594035 380.4 52.6 381.56405965 52.6 383 c f
+0.071 0.137 0.233 rg
+BT /F1 12 Tf 1 0 0 1 62 379 Tm (A state-dependent channel is described by P\(Y|X,S\).) Tj ET
+0.020 0.570 0.650 rg  52.6 354 m 52.6 355.43594035 51.43594035 356.6 50 356.6 c 48.56405965 356.6 47.4 355.43594035 47.4 354 c 47.4 352.56405965 48.56405965 351.4 50 351.4 c 51.43594035 351.4 52.6 352.56405965 52.6 354 c f
+0.071 0.137 0.233 rg
+BT /F1 12 Tf 1 0 0 1 62 350 Tm (The encoder can use noncausal state knowledge to choose X.) Tj ET
+0.020 0.570 0.650 rg  52.6 325 m 52.6 326.43594035 51.43594035 327.6 50 327.6 c 48.56405965 327.6 47.4 326.43594035 47.4 325 c 47.4 323.56405965 48.56405965 322.4 50 322.4 c 51.43594035 322.4 52.6 323.56405965 52.6 325 c f
+0.071 0.137 0.233 rg
+BT /F1 12 Tf 1 0 0 1 62 321 Tm (Random binning motivates the Gelfand-Pinsker coding idea.) Tj ET
+0.020 0.570 0.650 rg
+BT /F2 11 Tf 1 0 0 1 42 281 Tm (MY CONTRIBUTION) Tj ET
+0.071 0.137 0.233 rg
+BT /F1 12 Tf 1 0 0 1 42 259 Tm (Prepared and explained the model, random-binning principle,) Tj ET
+0.071 0.137 0.233 rg
+BT /F1 12 Tf 1 0 0 1 42 240 Tm (achievable-rate reasoning and dirty-paper-coding application.) Tj ET
+0.020 0.570 0.650 rg
+BT /F2 11 Tf 1 0 0 1 42 203 Tm (LIMITS & ATTRIBUTION) Tj ET
+0.071 0.137 0.233 rg
+BT /F1 11 Tf 1 0 0 1 42 181 Tm (Theoretical presentation only; no built encoder, measured) Tj ET
+0.071 0.137 0.233 rg
+BT /F1 11 Tf 1 0 0 1 42 162 Tm (channel or independently proved coding theorem.) Tj ET
+0.315 0.375 0.450 rg
+BT /F1 10 Tf 1 0 0 1 42 137 Tm (Gelfand-Pinsker coding theorem; course presentation sources.) Tj ET
+0.82 0.86 0.89 rg 42 65 708 1 re f
+0.315 0.375 0.450 rg
+BT /F1 9 Tf 1 0 0 1 42 48 Tm (Personally prepared student presentation. This copyright-conscious summary omits the original deck's third-party figures.) Tj ET
+0.315 0.375 0.450 rg
+BT /F1 9 Tf 1 0 0 1 42 34 Tm (Full original presentation remains private; this excerpt is not evidence of an experiment or new result.) Tj ET
+0.89 0.95 0.96 rg 564 340 49 40 re f
+0.89 0.95 0.96 rg 639 340 49 40 re f
+0.89 0.95 0.96 rg 709 340 45 40 re f
+0.071 0.137 0.233 rg
+BT /F2 12 Tf 1 0 0 1 571 355 Tm (ENC) Tj ET
+0.071 0.137 0.233 rg
+BT /F2 12 Tf 1 0 0 1 651 355 Tm (CH) Tj ET
+0.071 0.137 0.233 rg
+BT /F2 12 Tf 1 0 0 1 714 355 Tm (DEC) Tj ET
+0.020 0.570 0.650 RG 2 w 613 360 m 635 360 l S
+0.020 0.570 0.650 RG 2 w 688 360 m 705 360 l S
+0.020 0.570 0.650 RG 2 w 589 414 m 589 382 l S
+0.071 0.137 0.233 rg
+BT /F1 10 Tf 1 0 0 1 570 429 Tm (STATE) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000003646 00000 n 
+0000003716 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+3791
+%%EOF

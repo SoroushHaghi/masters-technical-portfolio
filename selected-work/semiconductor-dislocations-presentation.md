@@ -1,5 +1,7 @@
 # Semiconductor Technology — crystal defects and dislocations
 
+[View public presentation preview (PDF)](../assets/presentations/semiconductor-dislocations-preview.pdf)
+
 **Domain:** [Quantum Devices & Physical Systems](../domains/quantum-devices-physical-systems.md)  
 **Type:** Individual course technical presentation.
 

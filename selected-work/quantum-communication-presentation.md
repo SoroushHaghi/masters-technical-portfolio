@@ -1,5 +1,7 @@
 # Quantum Communication Networks — technical presentation
 
+[View public presentation preview (PDF)](../assets/presentations/quantum-communication-preview.pdf)
+
 **Domain:** [Communication, Information & Coding Theory](../domains/communication-information-coding.md)  
 **Type:** Personally prepared academic technical presentation (2025)  
 **Evidence:** Student-associated slides and the canonical career project record; source presentation retained privately.

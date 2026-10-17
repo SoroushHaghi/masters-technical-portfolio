@@ -1,5 +1,7 @@
 # Nano-Optics journal club — Sn-nanobar plasmonic metasurfaces
 
+[View public presentation preview (PDF)](../assets/presentations/plasmonic-metasurface-preview.pdf)
+
 **Domain:** [Quantum Devices & Physical Systems](../domains/quantum-devices-physical-systems.md)  
 **Type:** **Literature-review presentation** of published research.
 
