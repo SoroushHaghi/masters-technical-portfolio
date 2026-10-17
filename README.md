@@ -25,10 +25,10 @@ Quantum circuits · Qiskit · Bernstein–Vazirani · Simon · adiabatic optimiz
 ## Selected academic work — personal contributions
 
 **Academic presentations**
-- [Quantum Communication Networks — Bloch Sphere, CHSH & MAC](selected-work/quantum-communication-presentation.md)
-- [Network Information Theory — Channel Coding with State](selected-work/state-dependent-channel-coding.md)
-- [Semiconductor Technology — Crystal Defects & Dislocations](selected-work/semiconductor-dislocations-presentation.md)
-- [Fundamentals of Nanooptics — Plasmonic Metasurfaces (literature review)](selected-work/plasmonic-metasurface-literature-review.md)
+- [Quantum Communication Networks — Bloch Sphere, CHSH & MAC (PDF preview)](assets/presentations/quantum-communication-preview.pdf)
+- [Network Information Theory — Channel Coding with State (PDF preview)](assets/presentations/channel-coding-preview.pdf)
+- [Semiconductor Technology — Crystal Defects & Dislocations (PDF preview)](assets/presentations/semiconductor-dislocations-preview.pdf)
+- [Fundamentals of Nanooptics — Plasmonic Metasurfaces (PDF preview)](assets/presentations/plasmonic-metasurface-preview.pdf)
 
 **Other selected work**
 - [Coding Theory — MATLAB group lab](selected-work/coding-theory-group-lab.md)
