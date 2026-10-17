@@ -16,3 +16,11 @@
 
 
 *Source material and university records remain private; this page is a summary of bounded academic evidence.*
+
+## Selected academic work
+
+- [Nonlinear Photonics — twelve analytical written submissions](../selected-work/nonlinear-photonics-analytical-work.md)
+- [Semiconductor crystal defects and dislocations — technical presentation](../selected-work/semiconductor-dislocations-presentation.md)
+- [Sn-nanobar plasmonic metasurface — review of published FDTD research](../selected-work/plasmonic-metasurface-literature-review.md)
+
+These documents represent analytical/course/literature work, not independently fabricated devices, photonics lab measurements or personally run FDTD simulations.
