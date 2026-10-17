@@ -1,6 +1,6 @@
 # 01 · Communication, Information & Coding Theory
 
-[← Portfolio overview](../README.md) · [Complete course index](../COURSE_COVERAGE.md) · [Computing →](computing-algorithms-optimization.md) · [Devices →](quantum-devices-physical-systems.md)
+[← Portfolio overview](../README.md) · [Computing →](computing-algorithms-optimization.md) · [Devices →](quantum-devices-physical-systems.md)
 
 **What I studied:** Information theory, source and channel coding, error correction, multiuser information theory, and quantum communication.
 
