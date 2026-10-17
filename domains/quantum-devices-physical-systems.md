@@ -1,6 +1,6 @@
 # 03 · Quantum Devices & Physical Systems
 
-[← Portfolio overview](../README.md) · [Complete course index](../COURSE_COVERAGE.md) · [Communication →](communication-information-coding.md) · [Computing →](computing-algorithms-optimization.md)
+[← Portfolio overview](../README.md) · [Communication →](communication-information-coding.md) · [Computing →](computing-algorithms-optimization.md)
 
 **What I studied:** Semiconductor technology, GaN devices, quantum hardware platforms, nonlinear photonics, nano-optics and electromagnetics.
 
@@ -22,6 +22,7 @@
 - The *Crystal Defects* and *plasmonic metasurface* presentations synthesize **published literature**. Reported FDTD simulations belong to the paper authors; no personally run FDTD/TCAD simulation is claimed.
 - The preserved *Nonlinear Photonics* submissions show analytical coursework, not laboratory optical measurements.
 - *Fundamentals of Nano Optics* is **studied-topic evidence only**, not a completed qualification.
+- The older **NLPh/NLP** source folder labels both refer to *Nonlinear Photonics*, not two different courses.
 
 **Related work:** [Communication & Coding](communication-information-coding.md) (optical propagation and channels) · [Computing & Algorithms](computing-algorithms-optimization.md) (physical qubit platforms).
 
