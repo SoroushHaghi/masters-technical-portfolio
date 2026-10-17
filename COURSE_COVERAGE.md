@@ -1,79 +1,50 @@
 # Master's Course Coverage & Evidence Index
 
-[← Portfolio overview](README.md) · [Communication & coding](domains/communication-information-coding.md) · [Computing & algorithms](domains/computing-algorithms-optimization.md) · [Devices & physical systems](domains/quantum-devices-physical-systems.md)
+[← Portfolio overview](README.md) · [Communication](domains/communication-information-coding.md) · [Computing](domains/computing-algorithms-optimization.md) · [Devices](domains/quantum-devices-physical-systems.md)
 
-A **course-to-topic map** of documented M.Sc. learning at TU Braunschweig, plus one separately identified external training course. The three domains are *cross-referenced scientific subjects*, not official degree-track classifications.
+**How to read this page:** Find a scientific area → identify the **course** → see the **specific topics studied** → check the **evidence available**. This is a course/topic map, not a skills-certification or independent-implementation claim.
 
-**Scope:** Academic records and a **text-only review of four semesters** of course materials, reconciled on **16 October 2026**. Nineteen scientific source-folder groups were indexed; these are **not** nineteen separately completed courses. Original lecture/source material, scans, audio and video were not republished or newly transcribed. Completion status comes from verified academic records, not course-folder names. No transcript, grades, student identifiers, instructor PDFs or private exercise files are published here.
+## 01 · [Communication, Information & Coding Theory](domains/communication-information-coding.md)
 
-## Quick reference
+| Scientific area | Course | Specific topics studied | Evidence I have |
+| --- | --- | --- | --- |
+| Information & source coding | **Mathematical Foundations of Information Theory and Coding Theory** | Entropy, relative entropy, Kraft–McMillan, prefix/Huffman codes, Markov entropy rates, typical sets | **Passed** · Archived analytical assignments |
+| Error correction | **Coding Theory** | Hamming distance, linear/cyclic/BCH codes, cyclotomic cosets, generator polynomials, convolutional/Viterbi concepts | **Passed** · Course exercises |
+| Computational coding | **Computational Experiments in Coding Theory** | MATLAB matrices and cyclic codes; bit-error behavior versus SNR | **Passed group component** · Collaborative MATLAB worksheets |
+| Multiuser communication | **Network Information Theory** | Slepian–Wolf, random binning, Gelfand–Pinsker, dirty-paper coding and rate arguments | **Passed** · Individual *Channel Coding with State* presentation |
+| Quantum networks | **Quantum Communication Networks** | Entanglement, CHSH, quantum channels, dense coding, teleportation | **Passed** · Individual technical presentation |
+| Quantum/classical optical coexistence | **QKD and next-generation optical networks seminar** | Co-propagation of QKD signals and classical optical traffic; literature review | **In preparation** · Reading and seminar materials; final talk pending |
 
-| Evidence label | Meaning |
-| --- | --- |
-| **Completed coursework** | Course shown as passed in the available academic record. This verifies course completion, not every listed method as an independently implemented skill. |
-| **Passed component; module status pending** | A graded assessment/credit is recorded, while the transcript also marks its parent module incomplete. Both facts matter. |
-| **Completed group component** | Ungraded collaborative course component, without an independently assigned credit claim. |
-| **Studied topics** | Source-supported learning/exposure only; the course is **not presented as a completed credential**. |
-| **In preparation** | Active academic work for which the final deliverable is not yet demonstrated. |
-| **External learning (ongoing)** | A course outside the M.Sc. degree, with its evidence tracked independently. |
+## 02 · [Computing, Algorithms & Optimization](domains/computing-algorithms-optimization.md)
 
-## 01 · Communication, Information & Coding Theory
+| Scientific area | Course | Specific topics studied | Evidence I have |
+| --- | --- | --- | --- |
+| Quantum information | **Introduction to Quantum Information Technology and Quantum Computing** | States, tensor products, measurements, density operators, entanglement, quantum channels, CHSH, QFT/Shor concepts | **Passed** · Course exercises and assessment |
+| Quantum foundations | **Advanced Quantum Technology for Engineers** | Operators, Schrödinger equation, eigenvalue/perturbation methods, multi-particle principles | **Passed** · Analytical coursework |
+| Quantum algorithms & complexity | **Algorithms and Complexity for Quantum Computing** | P/NP/BPP/BQP, reductions, certificates, separability, oracle problems, QFT and Shor/Grover concepts | **Passed** · Course notes and theoretical exercises |
+| Approximation & optimization | **Approximation Algorithms** | Approximation guarantees, maximal matching, Vertex Cover, Set Cover/Packing, Bin Covering ILP, LP/primal–dual, metric TSP, Max-Cut, Steiner Tree | **Studied topics** · Exercise sheets and study problems; course not passed |
+| Quantum programming | **Quantum Programming Languages (PsiKet Academy)** *(external)* | Qiskit, GHZ, Bernstein–Vazirani, Simon, GF(2), photonic/CV computing, Ising/QUBO, adiabatic methods, VQE | **Ongoing** · [Topic-based learning repository ↗](https://github.com/SoroushHaghi/quantum_programming_languages_lab) |
 
-| Academic course or component | Status | Topic evidence / linked domain |
-| --- | --- | --- |
-| Mathematical Foundations of Information Theory and Coding Theory | Completed coursework | Entropy, prefix codes, Kraft–McMillan, Huffman, stochastic sources, typicality · [Explore](domains/communication-information-coding.md) |
-| Coding Theory | Completed coursework | Hamming distance, cyclic/BCH codes, cyclotomic cosets, convolutional codes and Viterbi-decoding concepts · [Explore](domains/communication-information-coding.md) |
-| Computational Experiments in Coding Theory | Completed **group component** | Collaborative MATLAB worksheet with code/matrix and bit-error investigations; no sole decoder authorship asserted · [Explore](domains/communication-information-coding.md) |
-| Network Information Theory | Completed coursework | Correlated distributed sources (Slepian–Wolf), random binning and encoder-known channel state (Gelfand–Pinsker) · [Explore](domains/communication-information-coding.md) |
-| Quantum Communication Networks | Completed coursework | Entanglement, CHSH, teleportation, dense coding and network concepts · [Explore](domains/communication-information-coding.md) |
-| QKD / next-generation optical networks seminar | In preparation | Co-propagation/coexistence topic; final presentation and original results not yet claimed · [Explore](domains/communication-information-coding.md) |
+## 03 · [Quantum Devices & Physical Systems](domains/quantum-devices-physical-systems.md)
 
-## 02 · Computing, Algorithms & Optimization
+| Scientific area | Course | Specific topics studied | Evidence I have |
+| --- | --- | --- | --- |
+| Semiconductor fabrication | **Semiconductor Technology** | Crystal defects, CMOS, lithography, doping/annealing, CVD/PVD/ALD/MOCVD, contacts and packaging | **Passed** · *Crystal Defects* literature presentation |
+| GaN & III-nitrides | **Gallium Nitride Technology** | LEDs, SRH/radiative/Auger recombination, ABC model, polarization/2DEG, HEMTs | **Passed** · Exercises and academic assessment |
+| Quantum hardware | **Applied Quantum Computing: Basics and Devices** | Physical qubits, DiVincenzo criteria, coherence, superconducting/trapped-ion/photonic platforms | **Passed** · Academic assessment and course materials |
+| Nonlinear optics | **Nonlinear Photonics** | χ²/χ³, SHG/THG, four-wave mixing, phase matching, SPM/XPM, nonlinear scattering, dispersion | **Passed** · Twelve analytical submissions |
+| Electromagnetic modeling | **Advanced Applications of Field Theory** | Magnetostatics, induction, magnetic energy/inductance, Poynting flow, waves, radiation, skin depth and boundary methods | **Passed** · Analytical exercises |
+| Nano-optics & plasmonics | **Fundamentals of Nano Optics** | Plasmons, evanescent fields, nanostructures, metasurfaces, published FDTD studies | **Studied topics** · Sn-nanobar metasurface literature presentation; not passed |
+| Electromagnetic foundations | **Electromagnetic field theory: classical and quantum mechanical applications** | Earlier electromagnetic/field-theory foundations | **Studied topics** · Course materials; not a completed module |
 
-| Academic course or training | Status | Topic evidence / linked domain |
-| --- | --- | --- |
-| Introduction to Quantum Information Technology and Quantum Computing | Completed coursework | Quantum states, tensor products, measurements, entanglement, CHSH, QFT/Shor concepts · [Explore](domains/computing-algorithms-optimization.md) |
-| Advanced Quantum Technology for Engineers | Completed coursework | Quantum physics, operators, Schrödinger problems, physical foundations · [Computing](domains/computing-algorithms-optimization.md) / [Devices](domains/quantum-devices-physical-systems.md) |
-| Algorithms and Complexity for Quantum Computing | **Passed graded component; module status pending** | The graded assessment is recorded as passed; the official parent-module completion annotation remains unresolved · [Explore](domains/computing-algorithms-optimization.md) |
-| Approximation Algorithms | Studied topics | Approximation guarantees, graph reductions, matching, Set Cover/Set Packing, Bin Covering, metric TSP, Max-Cut and Steiner-tree assignments; **no completed-course claim** · [Explore](domains/computing-algorithms-optimization.md) |
-| Quantum Programming Languages (PsiKet Academy) | External learning (ongoing) | Quantum circuits, Qiskit, oracle algorithms, variational and adiabatic methods · [Learning repository](https://github.com/SoroushHaghi/quantum_programming_languages_lab) |
+## Evidence guide
 
-## 03 · Quantum Devices & Physical Systems
+- **Passed:** Completed assessed coursework or recorded passed component; university records are private.
+- **Studied topics:** Course-source coverage without a claim that the entire course was passed.
+- **Group component:** Collaborative output, **not** an independently implemented coding project.
+- **Presentation / exercises:** Academic technical work, not proof of fabrication, original experiments or personally developed simulations.
+- **Ongoing external course:** The linked QPL repository contains topic-organized materials and AI-assisted illustrative code; independently executed/validated results are not yet established.
 
-| Academic course or material | Status | Topic evidence / linked domain |
-| --- | --- | --- |
-| Semiconductor Technology | Completed coursework | CMOS process flow, lithography, implantation/diffusion/anneal, film deposition and packaging · [Explore](domains/quantum-devices-physical-systems.md) |
-| Gallium Nitride Technology | Completed coursework | III-nitride LEDs, SRH/radiative/Auger recombination, ABC model, AlGaN/GaN polarization and HEMTs · [Explore](domains/quantum-devices-physical-systems.md) |
-| Applied Quantum Computing: Basics and Devices | Completed coursework | Physical qubits, coherence, device-platform criteria · [Devices](domains/quantum-devices-physical-systems.md) / [Computing](domains/computing-algorithms-optimization.md) |
-| Nonlinear Photonics | Completed coursework | Nonlinear susceptibilities, wave mixing, phase matching, dispersion · [Devices](domains/quantum-devices-physical-systems.md) / [Communication](domains/communication-information-coding.md) |
-| Advanced Applications of Field Theory | Completed coursework | Magnetostatics, induction, layered coaxial media, magnetic energy/inductance, antennas, skin effect and image-charge boundaries · [Devices](domains/quantum-devices-physical-systems.md) / [Communication](domains/communication-information-coding.md) |
-| Fundamentals of Nano Optics | Studied topics | Nano-optics/plasmonics; a literature-based metasurface presentation is documented, but personal FDTD simulation is not · [Explore](domains/quantum-devices-physical-systems.md) |
-| Electromagnetic field theory: classical and quantum mechanical applications | Studied topics | Earlier field-theory exposure; **no separate completion claim** · [Explore](domains/quantum-devices-physical-systems.md) |
+Courses listed in multiple scientific contexts in the domain pages are **cross-domain links, not additional qualifications**. Supporting *Information Theory* notes, overlapping *QIT/QTC* and *NLPh/NLP* source folders are not counted as extra modules. Complementary university study includes mentoring and German-language courses; these are outside the technical domains.
 
-## Four-semester source reconciliation
-
-The underlying private materials contain multiple **versions and reused collections**, not a separate qualification per folder. The **QIT and QTC** folders overlap in introductory quantum information; **NLPh and NLP** both refer to *Nonlinear Photonics* (not Natural Language Processing). A separate **IT** folder contains Information Theory material but is **not independently counted as an additional passed module**. The **ACQC** source tree includes classmate-supplied and AI-associated materials; examples are not evidence of personally executed quantum software.
-
-Lecture notes, tutor exercise sheets, student-associated presentations, externally published work and personally verified implementations have different evidentiary weight. The four-semester text-only audit adds concrete theory and problem-set coverage while preserving those distinctions. The QKD folder currently documents a literature survey, seminar instructions and a blank template; the actual seminar remains **in preparation**.
-
-## Complementary study and professional development
-
-The degree record also contains **Mentoring**, **German A1.2**, and **German A2.2** coursework. These belong to professionalisation/language development rather than being forced into one of the three technical domains. They are not evidence of an external language examination or certification.
-
-Only relevant academic material with documented topic evidence appears in this public map. It is **not** a replacement for an official transcript.
-
-## Existing work and what it actually demonstrates
-
-| Source-supported work | Where described | Evidence boundary |
-| --- | --- | --- |
-| Analytical information/coding homework and two technical communication presentations | [Communication & coding](domains/communication-information-coding.md) | Theoretical/technical communication; calculations require individual review before reuse |
-| MATLAB coding-theory **group** worksheet | [Communication & coding](domains/communication-information-coding.md) | No personal standalone decoder or reproducible benchmark yet evidenced |
-| Quantum Programming Languages topic notes and illustrative Qiskit code | [Computing & algorithms](domains/computing-algorithms-optimization.md) · [QPL repository](https://github.com/SoroushHaghi/quantum_programming_languages_lab) | AI-assisted teaching reconstructions; personal end-to-end execution/testing unverified |
-| Nonlinear-photonics written exercise work | [Devices & physical systems](domains/quantum-devices-physical-systems.md) | Analytical exercises, not optical laboratory experiments |
-| Crystal-defects and plasmonic-metasurface technical presentations | [Devices & physical systems](domains/quantum-devices-physical-systems.md) | Literature synthesis, not wafer fabrication or personally run FDTD |
-
-## Evidence still to be developed
-
-Further public project claims require directly attributable code, reproducible test/execution outputs or independently checked technical deliverables. The text-only study-material audit intentionally did not validate all numerical solutions, scan-only pages or student code execution.
-
-This index deliberately tracks *known course coverage*. It does not claim that all concepts were retained, mastered or independently demonstrated.
+*Compiled from academic records and source-folder review through October 2026. No grades, transcripts, private coursework files, instructor handouts or student identifiers are published.*
