@@ -16,3 +16,14 @@
 
 
 *Source material and university records remain private; this page is a summary of bounded academic evidence.*
+
+## Selected academic work
+
+These are separately documented activities, not extra completed courses:
+
+- [Quantum communication, Bloch-state concepts, CHSH and multiple-access communication — individual presentation](../selected-work/quantum-communication-presentation.md)
+- [Channel coding with state information — individual presentation](../selected-work/state-dependent-channel-coding.md)
+- [Coding theory MATLAB computational exercises — collaborative group lab](../selected-work/coding-theory-group-lab.md)
+- [Information and coding theory — graded analytical submissions](../selected-work/information-coding-assignments.md)
+
+The underlying academic originals remain private while selected, original and attribution-cleared extracts are being reviewed for publication.
