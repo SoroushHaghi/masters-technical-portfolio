@@ -25,10 +25,10 @@ Quantum circuits · Qiskit · Bernstein–Vazirani · Simon · adiabatic optimiz
 ## Selected academic work — personal contributions
 
 **Academic presentations**
-- [Quantum Communication Networks — Bloch Sphere, CHSH & MAC](selected-work/quantum-communication-presentation.md)
-- [Network Information Theory — Channel Coding with State](selected-work/state-dependent-channel-coding.md)
-- [Semiconductor Technology — Crystal Defects & Dislocations](selected-work/semiconductor-dislocations-presentation.md)
-- [Fundamentals of Nanooptics — Plasmonic Metasurfaces (literature review)](selected-work/plasmonic-metasurface-literature-review.md)
+- [Quantum Communication Networks — Bloch Sphere, CHSH & MAC — PDF](assets/presentations/QCN%20Presentation%20TU%20Braunschweig%20Haghi.pdf)
+- [Network Information Theory — Channel Coding with State — PDF](assets/presentations/NIT%20Presentation%20TU%20Braunschweig%20Haghi.pdf)
+- [Semiconductor Technology — Crystal Defects & Dislocations — PDF](assets/presentations/Semiconductor%20Technology%20Presentation%20TU%20Braunschweig%20Haghi.pdf)
+- [Fundamentals of Nanooptics — Plasmonic Metasurfaces (literature review) — PDF](assets/presentations/Nanooptics%20Presentation%20TU%20Braunschweig%20Haghi.pdf)
 
 **Other selected work**
 - [Coding Theory — TA-guided MATLAB in-class group exercises](selected-work/coding-theory-group-lab.md)
@@ -36,4 +36,4 @@ Quantum circuits · Qiskit · Bernstein–Vazirani · Simon · adiabatic optimiz
 - [Nonlinear Photonics — analytical exercises](selected-work/nonlinear-photonics-analytical-work.md)
 - [Quantum Computing — theory and Qiskit learning](selected-work/quantum-computing-learning.md)
 
-<sub>The full presentation PDFs are not yet publicly hosted; links currently open their academic-work description pages. Coding exercises were completed in class with teaching-assistant guidance.</sub>
+<sub>The PDF links open the original student presentation decks uploaded to this repository. Third-party scientific figures belong to their credited sources; Coding Theory exercises were TA-guided classroom group work.</sub>

@@ -1,10 +1,10 @@
 # Quantum Communication Networks — technical presentation
 
-*The original student slide deck is retained; a public copy is not yet available.*
+**[View original presentation slides (PDF)](../assets/presentations/QCN%20Presentation%20TU%20Braunschweig%20Haghi.pdf)**
 
 **Domain:** [Communication, Information & Coding Theory](../domains/communication-information-coding.md)  
 **Type:** Personally prepared academic technical presentation (2025)  
-**Evidence:** Student-associated slides and the canonical career project record; source presentation retained privately.
+**Evidence:** Student-associated slides and the canonical career project record; original student presentation linked above.
 
 ## What I worked on
 
@@ -21,4 +21,4 @@ A named technical slide deck organizing mathematical definitions, conceptual exa
 
 The presentation demonstrates technical synthesis and explanation, **not** a performed tomography experiment, laboratory CHSH measurement, a constructed quantum network or a measured channel-capacity/BER improvement. The presentation's cited theories are established research, not my original discoveries.
 
-Original slide files have not been published here pending rights/privacy review.
+The publicly shared student presentation includes established scientific material; embedded third-party figures retain their original attribution.

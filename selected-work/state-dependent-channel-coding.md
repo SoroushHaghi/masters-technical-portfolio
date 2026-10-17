@@ -1,10 +1,10 @@
 # Network Information Theory — channel coding with state
 
-*The original student slide deck is retained; a public copy is not yet available.*
+**[View original presentation slides (PDF)](../assets/presentations/NIT%20Presentation%20TU%20Braunschweig%20Haghi.pdf)**
 
 **Domain:** [Communication, Information & Coding Theory](../domains/communication-information-coding.md)  
 **Type:** Individual technical presentation (2025)  
-**Evidence:** Named `Channel Coding with State` slides; private original retained.
+**Evidence:** Named `Channel Coding with State` slides; original student slides linked above.
 
 ## What I worked on
 
@@ -18,4 +18,4 @@ A course presentation with conceptual and mathematical discussion of channel cod
 
 ## Attribution and limits
 
-This was theoretical/literature-based work, not a newly invented coding theorem or an implemented transmitter/receiver. The original deck includes material that needs a figure/copyright review before public posting.
+This was theoretical/literature-based work, not a newly invented coding theorem or an implemented transmitter/receiver. The original slides are publicly available above. Reused teaching/research figures remain attributed to their original sources; redistribution rights have not been independently confirmed.

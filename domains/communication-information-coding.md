@@ -15,7 +15,7 @@
 | **QKD / optical networks** | **QKD and next-generation optical networks seminar** | SS 2026 · S4 (preparing) | Literature on co-propagation of quantum-key-distribution signals and classical optical traffic | • **In preparation**<br>• Reading and seminar preparation materials; no final presentation or experiment yet | Not yet verified |
 
 
-*Source material and university records remain private; this page is a summary of bounded academic evidence.*
+*Original student presentation PDFs are public through the links below; other course records and materials remain private.*
 
 ## Selected academic work
 
@@ -26,4 +26,4 @@ These are separately documented activities, not extra completed courses:
 - [Coding theory MATLAB computational exercises — collaborative group lab](../selected-work/coding-theory-group-lab.md)
 - [Information and coding theory — graded analytical submissions](../selected-work/information-coding-assignments.md)
 
-The underlying academic originals remain private while selected, original and attribution-cleared extracts are being reviewed for publication.
+Original presentation PDFs are available through the linked work pages; assessed coursework and instructional materials remain private.

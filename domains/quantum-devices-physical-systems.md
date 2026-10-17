@@ -15,7 +15,7 @@
 | **Electromagnetic fields & waves** | **Advanced Applications of Field Theory** *(also Communication)* | SS 2026 · S4 | Magnetostatics; Ampère/Faraday laws; induction; magnetic energy and inductance; layered coaxial fields; Poynting theorem; plane waves, radiation, skin depth and image-charge methods | • **Passed**<br>• Field-theory exercises and written analytical work | Prof. Thomas Kämpfe |
 
 
-*Source material and university records remain private; this page is a summary of bounded academic evidence.*
+*Original student presentation PDFs are public through the links below; other course records and materials remain private.*
 
 ## Selected academic work
 
