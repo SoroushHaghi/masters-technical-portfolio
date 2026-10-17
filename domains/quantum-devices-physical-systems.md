@@ -14,6 +14,5 @@
 | **III-nitride devices** | **Gallium Nitride Technology** | WS 2025/26 · S3 | GaN/III-nitride LEDs; SRH, radiative and Auger recombination; ABC model; polarization and 2DEG; AlGaN/GaN HEMT principles | • **Passed**<br>• Course exercises and academic assessment | Prof. Andreas Waag |
 | **Electromagnetic fields & waves** | **Advanced Applications of Field Theory** *(also Communication)* | SS 2026 · S4 | Magnetostatics; Ampère/Faraday laws; induction; magnetic energy and inductance; layered coaxial fields; Poynting theorem; plane waves, radiation, skin depth and image-charge methods | • **Passed**<br>• Field-theory exercises and written analytical work | Prof. Thomas Kämpfe |
 
-**Related work:** [Communication & Coding](communication-information-coding.md) (optical propagation and channels) · [Computing & Algorithms](computing-algorithms-optimization.md) (physical qubit platforms).
 
 *Source material and university records remain private; this page is a summary of bounded academic evidence.*
