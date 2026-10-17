@@ -1,6 +1,6 @@
 # Network Information Theory — channel coding with state
 
-[View public presentation preview (PDF)](../assets/presentations/channel-coding-preview.pdf)
+*The original student slide deck is retained; a public copy is not yet available.*
 
 **Domain:** [Communication, Information & Coding Theory](../domains/communication-information-coding.md)  
 **Type:** Individual technical presentation (2025)  

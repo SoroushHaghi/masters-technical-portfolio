@@ -25,15 +25,15 @@ Quantum circuits · Qiskit · Bernstein–Vazirani · Simon · adiabatic optimiz
 ## Selected academic work — personal contributions
 
 **Academic presentations**
-- [Quantum Communication Networks — Bloch Sphere, CHSH & MAC (PDF preview)](assets/presentations/quantum-communication-preview.pdf)
-- [Network Information Theory — Channel Coding with State (PDF preview)](assets/presentations/channel-coding-preview.pdf)
-- [Semiconductor Technology — Crystal Defects & Dislocations (PDF preview)](assets/presentations/semiconductor-dislocations-preview.pdf)
-- [Fundamentals of Nanooptics — Plasmonic Metasurfaces (PDF preview)](assets/presentations/plasmonic-metasurface-preview.pdf)
+- [Quantum Communication Networks — Bloch Sphere, CHSH & MAC](selected-work/quantum-communication-presentation.md)
+- [Network Information Theory — Channel Coding with State](selected-work/state-dependent-channel-coding.md)
+- [Semiconductor Technology — Crystal Defects & Dislocations](selected-work/semiconductor-dislocations-presentation.md)
+- [Fundamentals of Nanooptics — Plasmonic Metasurfaces (literature review)](selected-work/plasmonic-metasurface-literature-review.md)
 
 **Other selected work**
-- [Coding Theory — MATLAB group lab](selected-work/coding-theory-group-lab.md)
+- [Coding Theory — TA-guided MATLAB in-class group exercises](selected-work/coding-theory-group-lab.md)
 - [Information & Coding Theory — analytical assignments](selected-work/information-coding-assignments.md)
 - [Nonlinear Photonics — analytical exercises](selected-work/nonlinear-photonics-analytical-work.md)
 - [Quantum Computing — theory and Qiskit learning](selected-work/quantum-computing-learning.md)
 
-<sub>Original graded coursework, instructor materials and third-party figures remain private; links describe the evidence and contribution scope.</sub>
+<sub>The full presentation PDFs are not yet publicly hosted; links currently open their academic-work description pages. Coding exercises were completed in class with teaching-assistant guidance.</sub>
