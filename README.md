@@ -1,4 +1,4 @@
-# Master's Technical Portfolio (since 2024)
+# Master's QUANTUM Technical Portfolio (since 2024)
 
 **M.Sc. Quantum Technologies in Electrical and Computer Engineering** · TU Braunschweig, Germany
 
