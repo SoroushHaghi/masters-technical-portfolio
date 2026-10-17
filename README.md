@@ -21,3 +21,11 @@ Quantum circuits · Qiskit · Bernstein–Vazirani · Simon · adiabatic optimiz
 ---
 
 <sub>Personal academic portfolio; not an official TU Braunschweig or course-provider repository.</sub>
+
+## Selected academic work — personal contributions
+
+The [selected-work index](selected-work/README.md) documents prepared presentations, assessed analytical submissions, collaborative work and ongoing educational examples, with clear attribution and limits. It complements the course-oriented domain tables above; **original graded documents, instructional handouts and outside-authored results remain private**.
+
+- [Communication & coding — presentations, analytical work and MATLAB group lab](domains/communication-information-coding.md#selected-academic-work)
+- [Computing — quantum theory and educational Qiskit examples](domains/computing-algorithms-optimization.md#selected-academic-work)
+- [Devices — photonics submissions and scientific presentations](domains/quantum-devices-physical-systems.md#selected-academic-work)
