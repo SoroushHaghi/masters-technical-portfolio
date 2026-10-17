@@ -15,14 +15,6 @@
 | **Quantum software & simulation** | **Quantum Programming Languages (PsiKet Academy)** *(external, ongoing)* | Qiskit gates and circuits; GHZ states; Bernstein–Vazirani and Simon oracles; GF(2) post-processing; photonic/continuous-variable computing; Ising/QUBO, adiabatic optimization and introductory VQE | **Ongoing learning repository:** [topic notes and example code ↗](https://github.com/SoroushHaghi/quantum_programming_languages_lab) |
 | **Physical computing architectures** | **Applied Quantum Computing: Basics and Devices** *(also Devices)* | Qubit and gate models; DiVincenzo criteria; superconducting, trapped-ion and photonic platforms; coherence and physical constraints | **Passed** · Academic assessment and course materials |
 
-## Evidence scope
-
-- **Passed** means a recorded academic pass, not an independently implemented quantum algorithm.
-- *Approximation Algorithms* has studied-topic and exercise evidence, **not** a passed-course claim.
-- The [Quantum Programming Languages Lab](https://github.com/SoroushHaghi/quantum_programming_languages_lab) contains topic-organized notes and **AI-assisted educational code reconstructions**. Independent execution and validation of the examples have not yet been established.
-- Some quantum-algorithm notes draw on classmate material or AI-supported reconstruction; instructor-authored scripts found in course folders are **not** presented as my code.
-- The **QIT/QTC** material folders overlap for the same introductory quantum-information course; they do **not** count as two completed courses.
-
 **Related work:** [Communication & Coding](communication-information-coding.md) (classical and quantum error correction) · [Quantum Devices](quantum-devices-physical-systems.md) (hardware limitations and qubit platforms).
 
 *Course coverage documents what was taught or studied; demonstrated programming requires separately tested results.*
