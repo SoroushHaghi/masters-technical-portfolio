@@ -12,7 +12,5 @@
 | **Approximation & combinatorial optimization** | **Approximation Algorithms** | SS 2026 · S4 | Approximation ratios; maximal matching and Vertex Cover; Independent Set reductions; Bin Covering ILP; Set Cover/Set Packing; LP/primal–dual methods; metric TSP, Max-Cut and Steiner Tree problems | • **Studied topics**<br>• Exercise sheets and worked study problems; course not passed | Prof. Sándor Fekete |
 | **Quantum software & simulation** | **Quantum Programming Languages (PsiKet Academy)** *(external, ongoing)* | 2026 · External | Qiskit gates and circuits; GHZ states; Bernstein–Vazirani and Simon oracles; GF(2) post-processing; photonic/continuous-variable computing; Ising/QUBO, adiabatic optimization and introductory VQE | • **Ongoing learning repository:** [topic notes and example code ↗](https://github.com/SoroushHaghi/quantum_programming_languages_lab)| Not yet verified (external course) |
 
-**Related work:** [Communication & Coding](communication-information-coding.md) (classical and quantum error correction) · [Quantum Devices](quantum-devices-physical-systems.md) (hardware limitations and qubit platforms).
-
 
 *Source material and university records remain private; this page is a summary of bounded academic evidence.*
