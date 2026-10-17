@@ -35,7 +35,6 @@
 | Nonlinear optics | **Nonlinear Photonics** | χ²/χ³, SHG/THG, four-wave mixing, phase matching, SPM/XPM, nonlinear scattering, dispersion | **Passed** · Twelve analytical submissions |
 | Electromagnetic modeling | **Advanced Applications of Field Theory** | Magnetostatics, induction, magnetic energy/inductance, Poynting flow, waves, radiation, skin depth and boundary methods | **Passed** · Analytical exercises |
 | Nano-optics & plasmonics | **Fundamentals of Nano Optics** | Plasmons, evanescent fields, nanostructures, metasurfaces, published FDTD studies | **Studied topics** · Sn-nanobar metasurface literature presentation; not passed |
-| Electromagnetic foundations | **Electromagnetic field theory: classical and quantum mechanical applications** | Earlier electromagnetic/field-theory foundations | **Studied topics** · Course materials; not a completed module |
 
 ## Evidence guide
 
