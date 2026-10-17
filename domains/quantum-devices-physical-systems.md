@@ -2,9 +2,7 @@
 
 [← Portfolio overview](../README.md) · [Communication →](communication-information-coding.md) · [Computing →](computing-algorithms-optimization.md)
 
-**What I studied:** Semiconductor technology, GaN devices, quantum hardware platforms, nonlinear photonics, nano-optics and electromagnetics.
 
-## Course → topics → evidence
 
 | Scientific area | Course | First documented term | Specific topics studied | Evidence I have | Lecturer(s) / course faculty |
 | --- | --- | --- | --- | --- | --- |
@@ -19,5 +17,3 @@
 **Related work:** [Communication & Coding](communication-information-coding.md) (optical propagation and channels) · [Computing & Algorithms](computing-algorithms-optimization.md) (physical qubit platforms).
 
 *Source material and university records remain private; this page is a summary of bounded academic evidence.*
-
-**Faculty attribution:** Names identify university-listed lecturers, module owners, or teaching staff—not verified individual classroom attendance, direct supervision, or personal contact. Sources: [QTEC WS 2024/25 timetable](https://www.tu-braunschweig.de/fileadmin/Redaktionsgruppen/Fakultaeten/FK5/dokumente/qtec_msc/MA_QTEC_WS_24-25_01.pdf) · [QTEC WS 2025/26 timetable](https://www.tu-braunschweig.de/fileadmin/Redaktionsgruppen/Fakultaeten/FK5/dokumente/qtec_msc/MA_QTEC_WS_25-26_01.pdf) · [QTEC SS 2026 timetable](https://www.tu-braunschweig.de/fileadmin/Redaktionsgruppen/Fakultaeten/FK5/dokumente/qtec_msc/MA_QTEC_SS_2026.pdf) · [QTEC 2023 module guide](https://www.tu-braunschweig.de/fileadmin/Redaktionsgruppen/Fakultaeten/FK5/dokumente/qtec_msc/Modulhandbuch_QTEC_MSc_2023_Stand_16.01.2023.pdf) · [TU Coding Theory teaching team](https://www.tu-braunschweig.de/en/ifn/edu/ss/ct) · [TU Computational Coding lab](https://www.tu-braunschweig.de/en/ifn/edu/ss/r-ct). Seminar and external-course faculty remain unverified.
